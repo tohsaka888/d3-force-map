@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@swc/cli": "0.1.57",
+    "@swc/cli": "0.1.62",
     "@swc/core": "1.2.220",
     "@swc/helpers": "0.4.3",
     "@types/d3": "^7.4.0",
