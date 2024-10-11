@@ -24,7 +24,7 @@
     "d3": "^7.6.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.3.0"
+    "react-router-dom": "6.27.0"
   },
   "scripts": {
     "build": "webpack --config ./webpack/webpack.prod.conf.js",
